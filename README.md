@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anurag Tiwari</h1>
+<h1 align="center">Hi , I'm Anurag Tiwari</h1>
 <h3 align="center">Open Source Contributer</h3>
 
 - 🔭 I’m currently working on [Svar](https://svar.in/)
